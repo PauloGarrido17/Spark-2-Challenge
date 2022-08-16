@@ -1,7 +1,0 @@
-
-## Part 1
-</br>
-
-<img src="./img/part1-1.png">
-
-</br>
