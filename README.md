@@ -3,6 +3,6 @@
 ## Part 1
 </br>
 
-<img src="/img/part1-1.png">
+<img src="img/part1-1.PNG">
 
 </br>
